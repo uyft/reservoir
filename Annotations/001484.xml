@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>001484</filename>
+  <path>C:\Users\lenovo\Desktop\he\JPEGImages\001484.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>swimmers</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>354</xmin>
+      <ymin>218</ymin>
+      <xmax>378</xmax>
+      <ymax>240</ymax>
+    </bndbox>
+  </object>
+</annotation>

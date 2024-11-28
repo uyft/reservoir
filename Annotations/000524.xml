@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000524</filename>
+  <path>C:\Users\Lyw\Desktop\yue\JPEGImages\000524.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>swimmers</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>301</xmin>
+      <ymin>217</ymin>
+      <xmax>405</xmax>
+      <ymax>249</ymax>
+    </bndbox>
+  </object>
+</annotation>

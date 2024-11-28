@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>001751</filename>
+  <path>C:\Users\Administrator\Desktop\he\he\JPEGImages\001751.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>swimmers</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>229</xmin>
+      <ymin>259</ymin>
+      <xmax>297</xmax>
+      <ymax>298</ymax>
+    </bndbox>
+  </object>
+</annotation>

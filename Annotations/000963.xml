@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000963</filename>
+  <path>C:\Users\Administrator\Desktop\hui\JPEGImages\000963.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>swimmers</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>212</xmin>
+      <ymin>61</ymin>
+      <xmax>245</xmax>
+      <ymax>125</ymax>
+    </bndbox>
+  </object>
+</annotation>

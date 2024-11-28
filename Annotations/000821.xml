@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000821</filename>
+  <path>C:\Users\Administrator\Desktop\hui\JPEGImages\000821.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>passerby</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>247</xmin>
+      <ymin>26</ymin>
+      <xmax>277</xmax>
+      <ymax>81</ymax>
+    </bndbox>
+  </object>
+</annotation>

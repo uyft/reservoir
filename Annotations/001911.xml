@@ -1,0 +1,26 @@
+<annotation verified="yes">
+  <folder>JPEGImages</folder>
+  <filename>001911</filename>
+  <path>C:\Users\Administrator\Desktop\he\he\JPEGImages\001911.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>800</width>
+    <height>450</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>swimmers</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>351</xmin>
+      <ymin>160</ymin>
+      <xmax>414</xmax>
+      <ymax>239</ymax>
+    </bndbox>
+  </object>
+</annotation>
